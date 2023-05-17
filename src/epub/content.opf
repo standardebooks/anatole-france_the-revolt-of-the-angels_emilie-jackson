@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anatole-france/the-revolt-of-the-angels/emilie-jackson</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-05-17T18:59:43Z</dc:date>
+		<meta property="dcterms:modified">2023-05-17T18:59:43Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,15 +38,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A guardian angel reads too much and becomes an atheist, before joining a group of fallen angels who plot to overthrow God.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Arcade is a guardian angel assigned to Maurice d’Esparvieu, a man so honest that he seems to be sinless. Bored by this lack of work, Arcade begins reading the books in d’Esparvieu’s library—but he reads too widely and too deeply. Soon, he finds himself losing his faith in God, who he realizes is really just a minor deity named Ialdabaoth with delusions of grandeur.&lt;/p&gt;
+			&lt;p&gt;Disillusioned with his existence, he moves to Paris, loses his wings, and meets other fallen angels. Together they begin to plot a new revolt against God to rescue Satan and install him to the throne of heaven.&lt;/p&gt;
+			&lt;p&gt;Told in &lt;a href="https://standardebooks.org/ebooks/anatole-france"&gt;Anatole France’s&lt;/a&gt; characteristic light and ironic style, &lt;i&gt;The Revolt of the Angels&lt;/i&gt; is a work of philosophy as much as it is a work of fiction. Through Arcade’s evolving perspective on faith and human affairs, France probes not just religion, but the causes, mechanisms, and consequences of revolutions. His conclusion on the cyclical nature of human suffering and governance is a grim foreshadowing of the Russian Revolution, which occurred just a few years after &lt;i&gt;Revolt of the Angels&lt;/i&gt; was published—and of which France was an outspoken supporter.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32596</dc:source>
 		<dc:source>https://archive.org/details/cu31924026395867</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">73734</meta>
+		<meta property="se:reading-ease.flesch">59.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Revolt_of_the_Angels</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anatole-france_the-revolt-of-the-angels_emilie-jackson</meta>
 		<dc:creator id="author">Anatole France</dc:creator>

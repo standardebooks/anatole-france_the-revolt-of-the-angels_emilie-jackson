@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A guardian angel reads too much and becomes an atheist, before joining a group of fallen angels who plot to overthrow God.</dc:abstract>
+		<meta property="schema:abstract">A guardian angel reads too much and becomes an atheist, before joining a group of fallen angels who plot to overthrow God.</meta>
 		<dc:description>
 			&lt;p&gt;Arcade is a guardian angel assigned to Maurice d’Esparvieu, a man so honest that he seems to be sinless. Bored by this lack of work, Arcade begins reading the books in d’Esparvieu’s library—but he reads too widely and too deeply. Soon, he finds himself losing his faith in God, who he realizes is really just a minor deity named Ialdabaoth with delusions of grandeur.&lt;/p&gt;
 			&lt;p&gt;Disillusioned with his existence, he moves to Paris, loses his wings, and meets other fallen angels. Together they begin to plot a new revolt against God to rescue Satan and install him to the throne of heaven.&lt;/p&gt;
